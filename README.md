@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 - 🌱 On a never-ending quest of learning
 - 👯 I'm looking for help in learning golang & rust
 - 💬 How to reach me: [chenjl_123@qq.com](chenjl_123@qq.com)
+
+### 🔗 Some Stats About Meredithelin (Public Only)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
