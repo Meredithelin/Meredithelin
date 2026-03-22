@@ -10,6 +10,7 @@
 - 🌱 On a never-ending quest of learning
 - 👯 I'm looking for help in learning golang & rust
 - 💬 How to reach me: [chenjl_123@qq.com](chenjl_123@qq.com)
+- 🌐 欢迎来我的博客逛逛：[访问我的个人博客](https://Meredithelin.github.io)
 
 ### 🔗 Some Stats About Meredithelin (Public Only)
 ---
