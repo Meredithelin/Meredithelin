@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Meredithelin/Meredithelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey man 🦅! I'm [Meredithelin] 👋
+
+I'm a student who is passionate about writing code, solving problems, automating stuff, and building software.
+
+- 🔭 I'm currently a student at Harbin Institute of Technology (Shenzhen).
+- 🌱 On a never-ending quest of learning
+- 👯 I'm looking for help in learning golang & rust
+- 💬 How to reach me: [电子邮箱](chenjl_123@qq.com)
+- ⚡ Fun fact: A philosophical fanatic
