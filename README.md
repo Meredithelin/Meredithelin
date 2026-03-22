@@ -24,7 +24,16 @@ Here are some ideas to get you started:
 - 💬 How to reach me: [chenjl_123@qq.com](chenjl_123@qq.com)
 
 ### 🔗 Some Stats About Meredithelin (Public Only)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=dark&hide_border=true)](https://git.io/streak-stats)
+---
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=sunset-gradient&hide_border=true)](https://git.io/streak-stats)
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 
