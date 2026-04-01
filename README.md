@@ -11,7 +11,7 @@
 <!-- my-header-img -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Meredithelin;Welcome+to+my+GitHub+Profile;Student+%40+HIT+(Shenzhen);Always+learning+new+things)](https://git.io/typing-svg)
 
-<img align="right" width="280" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding gif" />
+<img align="right" width="280" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="animated illustration of a person coding at a desk" />
 
 ### 🧑‍💻 About Me
 
@@ -53,9 +53,9 @@ blog: Meredithelin.github.io
 
 | GitHub Stats | Top Languages |
 |---|---|
-| ![Meredithelin's github stats](https://github-readme-stats.vercel.app/api?username=Meredithelin&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Meredithelin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meredithelin&theme=radical&layout=compact) |
+| ![Meredithelin's github stats](https://github-readme-stats.vercel.app/api?username=Meredithelin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![Meredithelin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meredithelin&theme=tokyonight&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=radical" alt="GitHub streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=tokyonight" alt="GitHub streak stats" />
 
 ![](https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/profile-night-rainbow.svg)
 
