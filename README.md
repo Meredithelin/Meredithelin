@@ -21,7 +21,7 @@ located: Harbin Institute of Technology (Shenzhen)
 role: Student & Open Source Enthusiast
 focus: [Go, Rust, C++, Systems Programming]
 learning: [Golang, Rust, Distributed Systems]
-contact: chenjl_123@qq.com
+contact: chenjl_123 [at] qq.com
 blog: https://Meredithelin.github.io
 ```
 
@@ -64,15 +64,15 @@ blog: https://Meredithelin.github.io
 ### 📫 How to Reach me
 
 <p align="left">
-<a href="https://Meredithelin.github.io" target="_blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome" alt="blog" height="30" width="30" /></a>
-<a href="mailto:chenjl_123@qq.com"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="30" width="30" /></a>
-<a href="https://github.com/Meredithelin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/github" alt="github" height="30" width="30" /></a>
+<a href="https://Meredithelin.github.io" target="_blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome" alt="Visit Meredithelin's blog" height="30" width="30" /></a>
+<a href="mailto:chenjl_123@qq.com"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="Email Meredithelin" height="30" width="30" /></a>
+<a href="https://github.com/Meredithelin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/github" alt="Visit Meredithelin's GitHub profile" height="30" width="30" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Meredithelin?theme=moebooru" alt="profile views" />
+  <img src="https://count.getloli.com/get/@Meredithelin?theme=moebooru" alt="Meredithelin's profile view counter" />
 </p>
 
 ![](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient)
