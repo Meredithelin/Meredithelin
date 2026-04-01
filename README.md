@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://github.com/Meredithelin/Meredithelin"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-FF1493.svg"></a>
-  <a href="https://github.com/Meredithelin/Meredithelin/graphs/contributors"><img src="https://img.shields.io/github/contributors/Meredithelin/Meredithelin?color=blue"></a>
   <a href="https://github.com/Meredithelin/Meredithelin/stargazers"><img src="https://img.shields.io/github/stars/Meredithelin/Meredithelin.svg?logo=github"></a>
   <a href="https://github.com/Meredithelin/Meredithelin/network/members"><img src="https://img.shields.io/github/forks/Meredithelin/Meredithelin.svg?color=blue&logo=github"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Meredithelin.Meredithelin" alt="visitors"/>
@@ -15,7 +14,7 @@
 
 <img align="right" width="280" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding gif" />
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
 ```yaml
 name: Meredithelin
@@ -49,7 +48,7 @@ blog: https://Meredithelin.github.io
 
 ![Meredithelin's github activity graph](https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg)
 
-| . | . |
+| GitHub Stats | Top Languages |
 |---|---|
 | ![Meredithelin's github stats](https://github-readme-stats.vercel.app/api?username=Meredithelin&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Meredithelin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meredithelin&theme=radical&layout=compact) |
 
