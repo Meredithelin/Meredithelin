@@ -21,7 +21,7 @@ located: Harbin Institute of Technology (Shenzhen)
 role: Student & Open Source Enthusiast
 focus: [Go, Rust, C++, Systems Programming]
 learning: [Golang, Rust, Distributed Systems]
-contact: chenjl_123@qq.com
+contact: mailto:chenjl_123@qq.com
 blog: https://Meredithelin.github.io
 ```
 
@@ -45,15 +45,17 @@ blog: https://Meredithelin.github.io
 
 ### 📈 GitHub Activity Graph
 
-![Meredithelin's github activity graph](https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg">
+  <img alt="Meredithelin's github contribution snake" src="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg" />
+</picture>
 
 | GitHub Stats | Top Languages |
 |---|---|
 | ![Meredithelin's github stats](https://github-readme-stats.vercel.app/api?username=Meredithelin&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Meredithelin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meredithelin&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=radical" />
-
-![Meredithelin's github activity graph dark](https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=radical" alt="GitHub streak stats" />
 
 ![](https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/profile-night-rainbow.svg)
 
