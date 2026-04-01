@@ -1,56 +1,117 @@
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=500&size=30&pause=1000&color=F70F6E&background=2586FF00&width=435&lines=Hello+!+I'm+Meredithelin;I+write+code+and+do+open+source+!)](https://git.io/typing-svg)
-</div>
 
-### I'm a student who is passionate about writing code, solving problems, automating stuff, and building software.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Meredithelin&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Code%20%7C%20Create%20%7C%20Explore&descAlignY=60&descSize=20" />
 
-- 🔭 I'm currently a student at Harbin Institute of Technology (Shenzhen).
-- 🌱 On a never-ending quest of learning
-- 👯 I'm looking for help in learning golang & rust
-- 💬 How to reach me: [chenjl_123@qq.com](chenjl_123@qq.com)
-- 🌐 欢迎来我的博客逛逛：[访问我的个人博客](https://Meredithelin.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A960EE&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World!+I'm+Meredithelin+%F0%9F%91%8B;Student+%40+HIT+(Shenzhen)+%F0%9F%8E%93;Coding+%7C+Open+Source+%7C+Exploring+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-### 🔗 Some Stats About Meredithelin (Public Only)
----
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=sunset-gradient&hide_border=true)](https://git.io/streak-stats)
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg">
-</picture>
+
+[![Email](https://img.shields.io/badge/Email-chenjl__123%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chenjl_123@qq.com)
+[![Blog](https://img.shields.io/badge/Blog-Meredithelin.github.io-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://Meredithelin.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/Meredithelin?style=flat-square&logo=github&label=Follow&color=A960EE)](https://github.com/Meredithelin)
+
 </div>
 
 ---
 
-<div align="center">
+<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
-### GitHub Visitor Counts 🎉 GitHub 访客数量 🎉
+### 🧑‍💻 About Me
 
-<img src="https://count.getloli.com/get/@Meredithelin?theme=moebooru" alt="Meredithelin's Visitor Count" />
+```yaml
+name:     Meredithelin
+located:  Harbin Institute of Technology (Shenzhen)
+role:     Student & Open Source Enthusiast
+focus:    [Go, Rust, C++, Systems Programming]
+learning: [Golang, Rust, Distributed Systems]
+hobbies:  [Coding, Problem Solving, Open Source]
+note:     3D city above is auto-generated via GitHub Actions
+```
 
-</div>
+- 🔭 Currently studying at **Harbin Institute of Technology (Shenzhen)**
+- 🌱 On a never-ending quest of **learning & building**
+- 👯 Looking for help in learning **Golang & Rust**
+- 💬 Reach me at **[chenjl_123@qq.com](mailto:chenjl_123@qq.com)**
+- 🌐 Visit my blog: **[Meredithelin.github.io](https://Meredithelin.github.io)**
+- ⚡ Fun fact: *I believe in the power of open source*
+
+---
+
 <div align="center">
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=go,rust,cpp,python,linux,git,vscode,github&perline=8&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meredithelin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a960ee&icon_color=ff333d&text_color=ffffff" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meredithelin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a960ee&text_color=ffffff" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=tokyonight&hide_border=true&background=0d1117&ring=a960ee&fire=ff333d&currStreakLabel=a960ee)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏙️ 3D Contribution City
+
+> *Every commit builds a skyscraper — watch the city grow!*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/profile-south-season-animate.svg">
+  <img alt="3D Contribution City" src="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/profile-night-rainbow.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Visitor Count
+
+<img src="https://count.getloli.com/get/@Meredithelin?theme=moebooru" alt="Meredithelin's Visitor Count" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
 
