@@ -65,7 +65,7 @@ blog: https://Meredithelin.github.io
 
 <p align="left">
 <a href="https://Meredithelin.github.io" target="_blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome" alt="blog" height="30" width="30" /></a>
-<a href="mailto:chenjl_123@qq.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="30" width="30" /></a>
+<a href="mailto:chenjl_123@qq.com"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="30" width="30" /></a>
 <a href="https://github.com/Meredithelin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/github" alt="github" height="30" width="30" /></a>
 </p>
 
