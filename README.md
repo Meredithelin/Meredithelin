@@ -23,7 +23,7 @@ role: Student & Open Source Enthusiast
 focus: [Go, Rust, C++, Systems Programming]
 learning: [Golang, Rust, Distributed Systems]
 contact: chenjl_123@qq.com
-blog: https://Meredithelin.github.io
+blog:    https://Meredithelin.github.io
 ```
 
 - 🔭 Currently studying at **Harbin Institute of Technology (Shenzhen)**
@@ -52,7 +52,7 @@ blog: https://Meredithelin.github.io
 |---|---|
 | ![Meredithelin's github stats](https://github-readme-stats.vercel.app/api?username=Meredithelin&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Meredithelin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meredithelin&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=radical"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=radical" />
 
 ![Meredithelin's github activity graph dark](https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake-dark.svg)
 
