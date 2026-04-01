@@ -48,12 +48,12 @@ blog: Meredithelin.github.io
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg">
-  <img alt="Meredithelin's github contribution snake" src="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg" />
+  <img alt="Meredithelin's GitHub contribution snake" src="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg" />
 </picture>
 
 | GitHub Stats | Top Languages |
 |---|---|
-| ![Meredithelin's github stats](https://github-readme-stats.vercel.app/api?username=Meredithelin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![Meredithelin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meredithelin&theme=tokyonight&layout=compact) |
+| ![Meredithelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meredithelin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![Meredithelin's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meredithelin&theme=tokyonight&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meredithelin&theme=tokyonight" alt="GitHub streak stats" />
 
