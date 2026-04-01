@@ -3,7 +3,6 @@
 <!-- my-icons -->
 <p align="center">
   <a href="https://github.com/Meredithelin/Meredithelin"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-FF1493.svg"></a>
   <a href="https://github.com/Meredithelin/Meredithelin/stargazers"><img src="https://img.shields.io/github/stars/Meredithelin/Meredithelin.svg?logo=github"></a>
   <a href="https://github.com/Meredithelin/Meredithelin/network/members"><img src="https://img.shields.io/github/forks/Meredithelin/Meredithelin.svg?color=blue&logo=github"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Meredithelin.Meredithelin" alt="visitors"/>
@@ -23,7 +22,7 @@ role: Student & Open Source Enthusiast
 focus: [Go, Rust, C++, Systems Programming]
 learning: [Golang, Rust, Distributed Systems]
 contact: chenjl_123@qq.com
-blog:    https://Meredithelin.github.io
+blog: https://Meredithelin.github.io
 ```
 
 - 🔭 Currently studying at **Harbin Institute of Technology (Shenzhen)**
