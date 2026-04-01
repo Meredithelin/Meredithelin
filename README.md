@@ -22,7 +22,7 @@ role: Student & Open Source Enthusiast
 focus: [Go, Rust, C++, Systems Programming]
 learning: [Golang, Rust, Distributed Systems]
 contact: chenjl_123@qq.com
-blog: Meredithelin.github.io
+blog: https://Meredithelin.github.io
 ```
 
 - 🔭 Currently studying at **Harbin Institute of Technology (Shenzhen)**
@@ -64,9 +64,9 @@ blog: Meredithelin.github.io
 ### 📫 How to Reach me
 
 <p align="left">
-<a href="https://Meredithelin.github.io" target="blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome" alt="blog" height="30" width="30" /></a>
-<a href="mailto:chenjl_123@qq.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="30" width="30" /></a>
-<a href="https://github.com/Meredithelin" target="blank"><img align="center" src="https://cdn.simpleicons.org/github" alt="github" height="30" width="30" /></a>
+<a href="https://Meredithelin.github.io" target="_blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome" alt="blog" height="30" width="30" /></a>
+<a href="mailto:chenjl_123@qq.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="gmail" height="30" width="30" /></a>
+<a href="https://github.com/Meredithelin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/github" alt="github" height="30" width="30" /></a>
 </p>
 
 ---
