@@ -21,8 +21,8 @@ located: Harbin Institute of Technology (Shenzhen)
 role: Student & Open Source Enthusiast
 focus: [Go, Rust, C++, Systems Programming]
 learning: [Golang, Rust, Distributed Systems]
-contact: mailto:chenjl_123@qq.com
-blog: https://Meredithelin.github.io
+contact: chenjl_123@qq.com
+blog: Meredithelin.github.io
 ```
 
 - 🔭 Currently studying at **Harbin Institute of Technology (Shenzhen)**
@@ -72,7 +72,7 @@ blog: https://Meredithelin.github.io
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Meredithelin.github.readme" alt="profile views" />
+  <img src="https://count.getloli.com/get/@Meredithelin?theme=moebooru" alt="profile views" />
 </p>
 
 ![](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient)
