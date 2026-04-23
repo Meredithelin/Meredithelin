@@ -43,7 +43,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Meredithelin&theme=radical" alt="Meredithelin's GitHub contribution streak statistics" />
 
-![](https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/profile-night-rainbow.svg)
+![](https://raw.githubusercontent.com/Meredithelin/Meredithelin/output-3d/profile-night-rainbow.svg)
 
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Meredithelin" width="auto" alt="Meredithelin's CodersRank profile summary" />
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Meredithelin&show-other-skills=true" width="auto" alt="Meredithelin's CodersRank skills chart" />

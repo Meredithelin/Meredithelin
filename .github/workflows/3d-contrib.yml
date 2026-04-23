@@ -37,7 +37,7 @@ jobs:
       - name: Push 3D contrib image to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
+          target_branch: output-3d
           build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
