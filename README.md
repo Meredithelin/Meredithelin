@@ -106,7 +106,7 @@ graph TD;
 #### Thanks for visiting :heart:
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Meredithelin/count.svg" alt="Meredithelin's profile view counter" />
+  <img src="https://komarev.com/ghpvc/?username=Meredithelin&label=Profile%20views&color=0e75b6&style=flat" alt="Meredithelin's profile view counter" />
   <img src="https://count.getloli.com/get/@Meredithelin?theme=moebooru" alt="Meredithelin's profile view counter" />
 </p>
 
