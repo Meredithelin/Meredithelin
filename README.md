@@ -22,7 +22,7 @@
 <!--   my-skills -->
 | Property | Data |
 |---|---|
-| **Languages** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+| **语言** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
 | **IDEs / Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | **Domain Knowledge** | ![Systems Programming](https://img.shields.io/badge/-Systems%20Programming-01D277?style=flat) ![Algorithms](https://img.shields.io/badge/-Algorithms-FAB040?style=flat) ![Open Source](https://img.shields.io/badge/-Open%20Source-FF6600?style=flat) ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-4C8CBF?style=flat) |
 | **CI / CD** | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
@@ -37,7 +37,7 @@
   <img alt="Meredithelin's GitHub contribution snake activity graph" src="https://raw.githubusercontent.com/Meredithelin/Meredithelin/output/github-contribution-grid-snake.svg" />
 </picture>
 
-| GitHub Stats | Top Languages |
+| GitHub Stats | 主要编程语言 |
 |---|---|
 | ![Meredithelin's GitHub statistics showing contributions and activity](https://github-readme-stats.vercel.app/api?username=Meredithelin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800) | ![Meredithelin's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meredithelin&theme=radical&layout=compact&cache_seconds=1800) |
 
@@ -45,21 +45,12 @@
 
 ![](https://raw.githubusercontent.com/Meredithelin/Meredithelin/output-3d/profile-night-rainbow.svg)
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Meredithelin" width="auto" alt="Meredithelin's CodersRank profile summary" />
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Meredithelin&show-other-skills=true" width="auto" alt="Meredithelin's CodersRank skills chart" />
 
 **📫 How to Reach me:**
 <p align="left">
   <a href="https://Meredithelin.github.io" target="_blank"><img align="center" src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="30" width="30" /></a>
   <a href="mailto:chenjl_123@qq.com"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="30" /></a>
   <a href="https://github.com/Meredithelin" target="_blank"><img align="center" src="https://cdn.simpleicons.org/github" alt="GitHub" height="30" width="30" /></a>
-</p>
-
-### 🏆 GitHub Profile Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.shields.io/badge/View-GitHub%20Profile%20Trophies-8250df?style=for-the-badge&logo=github&logoColor=white" alt="Open Meredithelin's GitHub profile trophies" />
-  </a>
 </p>
 
 ### 💻 HackerRank Profile
@@ -77,33 +68,6 @@ graph TD;
     systems-programming-->Reliability;
 ```
 
-<!-- China - My Study Cities -->
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [126.53,45.80],
-            [126.53,22.55],
-            [114.05,22.55],
-            [114.05,45.80],
-            [126.53,45.80]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
 
 #### Thanks for visiting :heart:
 
