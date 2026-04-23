@@ -57,7 +57,9 @@
 
 ### 🏆 GitHub Profile Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Meredithelin&theme=radical" alt="Meredithelin's GitHub profile achievements and trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://img.shields.io/badge/View-GitHub%20Profile%20Trophies-8250df?style=for-the-badge&logo=github&logoColor=white" alt="Open Meredithelin's GitHub profile trophies" />
+  </a>
 </p>
 
 ### 💻 HackerRank Profile
