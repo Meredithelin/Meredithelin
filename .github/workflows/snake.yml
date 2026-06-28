@@ -19,10 +19,10 @@ jobs:
         with:
           # github user name to read the contribution graph from (**required**)
           github_user_name: ${{ github.repository_owner }}
-          # 自动生成两种主题的图片
+          # 自动生成两种主题的图片（珊瑚色 coral 配色）
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#D97757&color_dots=#F0EEE6,#EBC8B6,#E0A185,#D97757,#B85A3E
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#F0A07A&color_dots=#161B22,#5C3A2E,#9C5A40,#CC785C,#F0A07A
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
