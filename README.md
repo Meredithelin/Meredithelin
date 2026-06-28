@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 深思，而后落笔。
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&size=30&weight=600&color=CC785C&center=true&vCenter=true&width=520&height=70&repeat=false&lines=%E6%B7%B1%E6%80%9D%EF%BC%8C%E8%80%8C%E5%90%8E%E8%90%BD%E7%AC%94%E3%80%82" alt="深思，而后落笔。" />
 
 <sub>THOUGHTFUL CODE, BUILT WITH CARE</sub>
 
@@ -15,7 +15,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&color=D97757&center=true&vCenter=true&width=760&height=55&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Meredithelin%20%F0%9F%91%8B;%E6%8A%8A%E5%A4%8D%E6%9D%82%EF%BC%8C%E5%86%99%E7%AE%80%E5%8D%95;%E6%AF%94%E8%B5%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%9B%B4%E6%83%B3%E8%AF%BB%E6%87%82%E5%AE%83;Go%20%C2%B7%20Rust%20%C2%B7%20C%2B%2B%EF%BC%8C%E4%B8%80%E8%BE%B9%E5%86%99%E4%B8%80%E8%BE%B9%E6%83%B3;%E4%B8%80%E8%B5%B7%EF%BC%8C%E5%81%9A%E7%82%B9%E6%9C%89%E6%83%B3%E6%B3%95%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+SC&color=D97757&center=true&vCenter=true&width=760&height=55&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Meredithelin%20%F0%9F%91%8B;%E6%8A%8A%E5%A4%8D%E6%9D%82%EF%BC%8C%E5%86%99%E7%AE%80%E5%8D%95;%E6%AF%94%E8%B5%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%9B%B4%E6%83%B3%E8%AF%BB%E6%87%82%E5%AE%83;Go%20%C2%B7%20Rust%20%C2%B7%20C%2B%2B%EF%BC%8C%E4%B8%80%E8%BE%B9%E5%86%99%E4%B8%80%E8%BE%B9%E6%83%B3;%E4%B8%80%E8%B5%B7%EF%BC%8C%E5%81%9A%E7%82%B9%E6%9C%89%E6%83%B3%E6%B3%95%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="typing banner" />
 
 </div>
 
