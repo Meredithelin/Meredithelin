@@ -1,16 +1,21 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=200&color=D97757&text=Meredithelin&fontColor=FAF9F5&fontAlignY=38&desc=Thoughtful%20code%2C%20built%20with%20care&descAlignY=58&descSize=18)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=D97757&text=Meredithelin&fontColor=FAF9F5&fontAlignY=42)
 
 <div align="center">
 
+### 深思，而后落笔。
+
+<sub>THOUGHTFUL CODE, BUILT WITH CARE</sub>
+
+<br>
+
 <a href="https://github.com/Meredithelin/Meredithelin"><img src="https://img.shields.io/badge/status-thoughtfully%20updating-D97757?style=flat-square"></a>
-<a href="https://github.com/Meredithelin/Meredithelin/graphs/contributors"><img src="https://img.shields.io/github/contributors/Meredithelin/Meredithelin?color=CC785C&style=flat-square"></a>
 <a href="https://github.com/Meredithelin/Meredithelin/stargazers"><img src="https://img.shields.io/github/stars/Meredithelin/Meredithelin?logo=github&color=D97757&style=flat-square"></a>
 <a href="https://github.com/Meredithelin/Meredithelin/network/members"><img src="https://img.shields.io/github/forks/Meredithelin/Meredithelin?color=CC785C&logo=github&style=flat-square"></a>
 <img src="https://komarev.com/ghpvc/?username=Meredithelin&label=visitors&color=D97757&style=flat-square" alt="visitors"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Lora&color=D97757&center=true&vCenter=true&width=720&height=55&lines=Hi%2C+I%27m+Meredithelin+%F0%9F%91%8B;I+build+systems+and+try+to+keep+them+simple;Curious+about+how+things+actually+work;Go+%C2%B7+Rust+%C2%B7+C%2B%2B+%E2%80%94+thinking+out+loud;Let%27s+make+something+thoughtful" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&color=D97757&center=true&vCenter=true&width=760&height=55&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Meredithelin%20%F0%9F%91%8B;%E6%8A%8A%E5%A4%8D%E6%9D%82%EF%BC%8C%E5%86%99%E7%AE%80%E5%8D%95;%E6%AF%94%E8%B5%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%9B%B4%E6%83%B3%E8%AF%BB%E6%87%82%E5%AE%83;Go%20%C2%B7%20Rust%20%C2%B7%20C%2B%2B%EF%BC%8C%E4%B8%80%E8%BE%B9%E5%86%99%E4%B8%80%E8%BE%B9%E6%83%B3;%E4%B8%80%E8%B5%B7%EF%BC%8C%E5%81%9A%E7%82%B9%E6%9C%89%E6%83%B3%E6%B3%95%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="typing banner" />
 
 </div>
 
@@ -18,19 +23,24 @@
 
 <div align="center">
 
-👋 &nbsp; Hi, I'm <b>Meredithelin</b> — a CS student at <b>HIT (Shenzhen)</b>.
+哈尔滨工业大学（深圳）· 计算机在读。
 
-I like building things that are clear, careful, and a little curious —<br>
-usually low in the stack, in <b>Rust</b>, <b>Go</b>, or <b>C++</b>, asking <i>why</i> a system behaves the way it does.
+我喜欢把东西做得清楚、克制，带一点好奇——<br>
+常在系统底层，用 <b>Rust</b>、<b>Go</b>、<b>C++</b>，<br>
+追问一个系统，为什么是现在这样。
 
-I'd rather understand something deeply than just get it working.<br>
-Good code is mostly good thinking made legible — and I'm still learning what that means.
+比起让它跑起来，我更想真正读懂它。<br>
+好代码，多半是想清楚的事，被写得明白。<br>
+而这意味着什么，我还在慢慢学。
 
 </div>
 
 <br>
+<p align="center">· &nbsp; · &nbsp; ·</p>
+<br>
 
-<h3 align="center">🧰 &nbsp; Tech I work with</h3>
+<p align="center"><sub><b>THE TOOLS I REACH FOR</b></sub></p>
+<h3 align="center">技术栈</h3>
 
 <div align="center">
 
@@ -49,8 +59,11 @@ Good code is mostly good thinking made legible — and I'm still learning what t
 </div>
 
 <br>
+<p align="center">· &nbsp; · &nbsp; ·</p>
+<br>
 
-<h3 align="center">📈 &nbsp; Activity</h3>
+<p align="center"><sub><b>WHAT I'VE BEEN BUILDING</b></sub></p>
+<h3 align="center">活跃度</h3>
 
 <div align="center">
 
@@ -77,8 +90,11 @@ Good code is mostly good thinking made legible — and I'm still learning what t
 </div>
 
 <br>
+<p align="center">· &nbsp; · &nbsp; ·</p>
+<br>
 
-<h3 align="center">🧭 &nbsp; How I think about systems</h3>
+<p align="center"><sub><b>HOW I THINK ABOUT SYSTEMS</b></sub></p>
+<h3 align="center">系统之思</h3>
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#F0EEE6','primaryBorderColor':'#D97757','primaryTextColor':'#3D2B22','lineColor':'#CC785C','fontFamily':'ui-sans-serif'}}}%%
@@ -92,8 +108,11 @@ graph TD
 ```
 
 <br>
+<p align="center">· &nbsp; · &nbsp; ·</p>
+<br>
 
-<h3 align="center">📫 &nbsp; Find me</h3>
+<p align="center"><sub><b>SAY HELLO</b></sub></p>
+<h3 align="center">联系我</h3>
 
 <div align="center">
 
@@ -111,7 +130,7 @@ graph TD
 
 <div align="center">
 
-<i>Thanks for reading this far. Be well, and build something kind.</i> 🧡
+<i>谢谢你看到这里。愿你安好，也做点温柔的东西。</i> 🧡
 
 <br><br>
 
